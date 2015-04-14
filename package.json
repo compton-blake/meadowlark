@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/compton-blake/meadowlark",
   "dependencies": {
-    "express": "^4.12.3"
+    "express": "^4.12.3",
+    "express3-handlebars": "^0.5.2"
   }
 }
