@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/compton-blake/meadowlark/issues"
   },
-  "homepage": "https://github.com/compton-blake/meadowlark"
+  "homepage": "https://github.com/compton-blake/meadowlark",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
 }
